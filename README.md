@@ -4,3 +4,5 @@ this is a basic linux distro for EDUCATIONAL use only
 This distro is ARCH based it is CLI ONLY 
 
 it has a basic very limited package manager
+
+The distro is in the release attached as a binary asset
